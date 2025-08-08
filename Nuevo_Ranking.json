@@ -1,0 +1,497 @@
+[
+    {
+        "nombre_pais": "\u00a0Irlanda",
+        "jugadores": [
+            [
+                "26",
+                "Robbie Keane",
+                "68",
+                "146"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Egipto",
+        "jugadores": [
+            [
+                "27",
+                "Hossam Hassan",
+                "68",
+                "176"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Honduras",
+        "jugadores": [
+            [
+                "40",
+                "Carlos Pav\u00f3n",
+                "57",
+                "101"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Corea del Sur",
+        "jugadores": [
+            [
+                "38",
+                "Cha Bum-Kun",
+                "58",
+                "135"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Indonesia",
+        "jugadores": [
+            [
+                "20",
+                "Abdul Kadir",
+                "70",
+                "111"
+            ],
+            [
+                "48",
+                "Iswadi Idris",
+                "55",
+                "97"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Federaci\u00f3n Malaya/\u00a0Malasia",
+        "jugadores": [
+            [
+                "34",
+                "Abdul Ghani Minhat",
+                "61",
+                "71"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Hungr\u00eda",
+        "jugadores": [
+            [
+                "11",
+                "S\u00e1ndor Kocsis",
+                "75",
+                "68"
+            ],
+            [
+                "36",
+                "Imre Schlosser",
+                "59",
+                "68"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Trinidad y Tobago",
+        "jugadores": [
+            [
+                "21",
+                "Stern John",
+                "70",
+                "115"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Irak",
+        "jugadores": [
+            [
+                "9",
+                "Hussein Saeed",
+                "78",
+                "137"
+            ],
+            [
+                "33",
+                "Ahmed Radhi",
+                "62",
+                "121"
+            ],
+            [
+                "42",
+                "Younis Mahmoud",
+                "57",
+                "148"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Malawi",
+        "jugadores": [
+            [
+                "16",
+                "Kinnah Phiri",
+                "71",
+                "117"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Maldivas",
+        "jugadores": [
+            [
+                "39",
+                "Ali Ashfaq",
+                "57",
+                "89"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Suecia",
+        "jugadores": [
+            [
+                "32",
+                "Zlatan Ibrahimovi\u0107",
+                "62",
+                "120"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Kuwait",
+        "jugadores": [
+            [
+                "13",
+                "Bashar Abdullah",
+                "75",
+                "134"
+            ],
+            [
+                "30",
+                "Jasem Al-Huwaidi",
+                "63",
+                "83"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Alemania Federal",
+        "jugadores": [
+            [
+                "23",
+                "Gerd M\u00fcller",
+                "68",
+                "62"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Uruguay",
+        "jugadores": [
+            [
+                "28",
+                "Luis Su\u00e1rez",
+                "67",
+                "130"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Espa\u00f1a",
+        "jugadores": [
+            [
+                "37",
+                "David Villa",
+                "59",
+                "98"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Alemania",
+        "jugadores": [
+            [
+                "18",
+                "Miroslav Klose",
+                "71",
+                "137"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Camer\u00fan",
+        "jugadores": [
+            [
+                "44",
+                "Samuel Eto'o",
+                "56",
+                "118"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Alemania Oriental",
+        "jugadores": [
+            [
+                "50",
+                "Joachim Streich",
+                "55",
+                "102"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Hungr\u00eda/\u00a0Espa\u00f1a",
+        "jugadores": [
+            [
+                "4",
+                "Ferenc Pusk\u00e1s",
+                "84",
+                "89"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Argentina",
+        "jugadores": [
+            [
+                "5",
+                "Lionel Messi",
+                "81",
+                "158"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Portugal",
+        "jugadores": [
+            [
+                "1",
+                "Cristiano Ronaldo",
+                "115",
+                "184"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Emiratos Arabes Unidos",
+        "jugadores": [
+            [
+                "7",
+                "Ali Mabkhout",
+                "79",
+                "104"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Jap\u00f3n",
+        "jugadores": [
+            [
+                "12",
+                "Kunishige Kamamoto",
+                "75",
+                "76"
+            ],
+            [
+                "46",
+                "Kazuyoshi Miura",
+                "55",
+                "89"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Brasil",
+        "jugadores": [
+            [
+                "10",
+                "Pel\u00e9",
+                "77",
+                "92"
+            ],
+            [
+                "22",
+                "Neymar",
+                "70",
+                "116"
+            ],
+            [
+                "31",
+                "Ronaldo Nazario",
+                "62",
+                "98"
+            ],
+            [
+                "45",
+                "Rom\u00e1rio",
+                "55",
+                "70"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0B\u00e9lgica",
+        "jugadores": [
+            [
+                "24",
+                "Romelu Lukaku",
+                "68",
+                "101"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Zambia",
+        "jugadores": [
+            [
+                "8",
+                "Godfrey Chitalu",
+                "79",
+                "111"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Guatemala",
+        "jugadores": [
+            [
+                "25",
+                "Carlos Ruiz Guti\u00e9rrez",
+                "68",
+                "133"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Ir\u00e1n",
+        "jugadores": [
+            [
+                "2",
+                "Ali Daei",
+                "109",
+                "148"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Polonia",
+        "jugadores": [
+            [
+                "14",
+                "Robert Lewandowski",
+                "74",
+                "128"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Rep\u00fablica Checa",
+        "jugadores": [
+            [
+                "47",
+                "Jan Koller",
+                "55",
+                "91"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Bosnia y Herzegovina",
+        "jugadores": [
+            [
+                "35",
+                "Edin D\u017eeko",
+                "60",
+                "118"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Singapur",
+        "jugadores": [
+            [
+                "49",
+                "Fandi Ahmad",
+                "55",
+                "101"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Tailandia",
+        "jugadores": [
+            [
+                "17",
+                "Kiatisuk Senamuang",
+                "71",
+                "134"
+            ],
+            [
+                "19",
+                "Piyapong Pue-on",
+                "70",
+                "100"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Arabia Saudita",
+        "jugadores": [
+            [
+                "15",
+                "Majed Abdullah",
+                "72",
+                "117"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Estados Unidos",
+        "jugadores": [
+            [
+                "41",
+                "Clint Dempsey",
+                "57",
+                "141"
+            ],
+            [
+                "43",
+                "Landon Donovan",
+                "57",
+                "157"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0India",
+        "jugadores": [
+            [
+                "6",
+                "Sunil Chhetri",
+                "80",
+                "125"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Malasia",
+        "jugadores": [
+            [
+                "3",
+                "Mokhtar Dahari",
+                "89",
+                "142"
+            ]
+        ]
+    },
+    {
+        "nombre_pais": "\u00a0Costa de Marfil",
+        "jugadores": [
+            [
+                "29",
+                "Didier Drogba",
+                "65",
+                "105"
+            ]
+        ]
+    }
+]
